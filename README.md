@@ -1,1 +1,1 @@
-# A simple and responsive Movie Search App built with React.js. It uses the OMDb API to fetch movie data based on user input, displaying movie titles, posters, and details. Ideal for learning basic React concepts and API integration.
+# A  responsive Movie Search App built with React.js. Used OMDb API to fetch movie data based on user input, displaying movie titles, posters, and details. Ideal for learning  React concepts and API integration.
